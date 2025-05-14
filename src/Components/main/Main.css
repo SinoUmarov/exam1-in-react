@@ -1,0 +1,408 @@
+.mainbutton1 {
+    background-color: #3771C8;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.vector {
+    width: 20px;
+}
+
+.input1 {
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.divalign {
+    display: flex;
+    align-items: center;
+}
+
+.mainsection1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.finds {
+    font-size: 60px;
+    width: 620px;
+}
+
+.lorem {
+    width: 340px;
+    color: #555555;
+}
+
+.vector1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 0.1px solid gray;
+    width: 150px;
+    height: 30px;
+}
+
+.vectorsdiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.boxshadow {
+    box-shadow: 0px 0px 5px black;
+    height: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.sect2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.img17 {
+    width: 800px;
+}
+
+.img12 {
+    width: 300px;
+    border-radius: 20px;
+}
+
+.img18 {
+    width: 300px;
+    border-radius: 30px;
+}
+
+.servicec {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.faciel {
+    font-size: 40px;
+}
+
+.ipsum {
+    width: 500px;
+}
+
+.view {
+    color: #3771C8;
+}
+
+.allart {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+
+    article {
+        box-shadow: 0px 0px 5px black;
+        padding: 10px;
+    }
+}
+
+.luxurydom {
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 60px;
+    gap: 30px;
+}
+
+.happyarticle {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 40px;
+}
+
+.finest {
+    font-size: 40px;
+    width: 400px;
+}
+
+.simply {
+    width: 500px;
+}
+
+.restangles {
+    width: 500px;
+    color: #555555;
+}
+
+.explorebutton {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #3771C8;
+    color: white;
+}
+
+.logotip {
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 70px;
+}
+
+.spalniydiv {
+    background-color: #F9D15C;
+    width: 500px;
+    height: 400px;
+    align-items: center;
+    text-align: center;
+}
+
+.sect56 {
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.dummy {
+    font-size: 25px;
+    width: 400px;
+    margin-left: 40px;
+}
+
+.sur1 {
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hotelsquality {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dummyarticleall {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+    article {
+        border: 1px solid black;
+        text-align: center;
+        width: 100px;
+        height: 30px;
+        padding-bottom: 10px;
+        border-radius: 5px;
+    }
+}
+
+.allwiewdiv {
+    margin-top: 120px;
+    color: #3771C8;
+}
+
+.wwquality {
+    font-size: 40px;
+}
+
+.printing {
+    width: 400px;
+    color: #555555;
+}
+
+.swimmingpool {
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+    gap: 30px;
+
+    article {
+        box-shadow: 0px 0px 5px black;
+        border-radius: 10px;
+    }
+  .detailsdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  button{
+    padding: 5px;
+    border-radius: 6px;
+    border: 1px solid black;
+    background-color: #3771C8;
+    color: white;
+  }
+
+    
+}
+.mambokokir{
+    background-color: #EAECEB;
+    max-width: 1200px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    h2{
+        font-size: 50px;
+        
+    }
+    p{
+        color: #555555;
+        width: 450px;
+        margin-top: -30px;
+    }
+    input{
+        padding: 10px;
+        width: 300px;
+        border-radius: 10px;
+        border: 1px solid white;
+    }
+    button
+    {
+        padding: 10px;
+        border: 1px solid #3771C8;
+        border-radius: 15px;
+        background-color: #3771C8;
+        color: white;
+        position: absolute;
+        left: 350px;
+    }
+}
+@media (max-width: 1200px) {
+    .mainsection1,
+    .sect2,
+    .luxurydom,
+    .sect56,
+    .hotelsquality,
+    .swimmingpool,
+    .mambokokir {
+      flex-direction: column;
+      gap: 30px;
+    }
+  
+    .img17, .img12, .img18, .restangles {
+      width: 100%;
+    }
+  
+    .spalniydiv {
+      width: 100%;
+    }
+  
+    .finds {
+      font-size: 40px;
+      width: auto;
+    }
+  
+    .finest {
+      font-size: 30px;
+      width: auto;
+    }
+  
+    .dummy, .simply, .ipsum, .printing {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .happyarticle, .dummyarticleall, .allart {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  
+    .input1 {
+      width: 100%;
+    }
+  }
+  
+  @media (max-width: 768px) { 
+    .mainsection1 {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .boxshadow {
+      width: 90%;
+    }
+  
+    .vectorsdiv {
+      flex-direction: column;
+    }
+  
+    .divalign {
+      flex-direction: column;
+      gap: 10px;
+    }
+  
+    .sect2 img {
+      width: 100%;
+    }
+  
+    .allwiewdiv {
+      margin-top: 20px;
+    }
+  
+    .mambokokir h2 {
+      font-size: 30px;
+    }
+  
+    .mambokokir p {
+      width: 100%;
+      margin-top: 10px;
+    }
+  
+    .mambokokir input {
+      width: 100%;
+    }
+  
+    .mambokokir button {
+      position: static;
+      width: 100%;
+      margin-top: 10px;
+    }
+  
+    .detailsdiv {
+      flex-direction: column;
+      gap: 10px;
+    }
+     .typesclod{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+  }
+  
+  
+ .typesclod
+{
+  display: flex;
+justify-content: space-around;
+margin-top: 100px;
+}
+.practiceidea{
+  width: 300px;
+  font-size: 18px;
+}

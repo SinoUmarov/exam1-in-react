@@ -1,0 +1,114 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #222222;
+}
+ul{
+    display: flex;
+list-style: none;
+gap: 20px;
+
+}
+.obshdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    gap: 30px;
+}
+.divbutton{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.button1{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: white;
+    width: 92px;
+}
+header {
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.navbar img {
+    width: 120px;
+    height: auto;
+}
+
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.obshdiv {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.divbutton {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.divbutton img {
+    display: none;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.button1 {
+    border: 1px solid black;
+    padding: 10px 15px;
+    border-radius: 20px;
+    background-color: white;
+    width: 92px;
+    cursor: pointer;
+}
+
+
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    ul {
+        flex-direction: column;
+        gap: 10px;
+        margin-top: 10px;
+        display: none;
+    }
+
+    .navbar.active ul {
+        display: flex;
+    }
+
+    .divbutton {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .divbutton img {
+        display: block;
+    }
+}
